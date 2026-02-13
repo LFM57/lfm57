@@ -1,29 +1,21 @@
 ## Hi there 👋
 
-I love coding small projects, mostly not too complex, and surely (and hopefully) non-impact projects.
+I'm a student developer who loves building tools that solve immediate problems. Most of my projects are **passion-driven** and created on a whim whenever I find a repetitive task to automate or a logic puzzle to solve.
 
-Mostly, all my projects are creating on a whim, depending on what I wanted on-the-spot.
+### 🚀 Some of my favorite builds:
+- **[Discord Orbs Quest Bypasser](https://github.com/LFM57/Discord-Orbs-Quest-Bypasser)**: Because I'd rather code a solution than grind for rewards.
+- **[Poker Probabilities Calculator](https://github.com/LFM57/Poker-Probas)**: Built after realizing my "intuition" wasn't as good as actual math.
+- **AI & Neural Networks**: I enjoy experimenting with deep learning, like training a **ResNet** to play Connect-Four.
 
-For example, here are a few of my milestones:
-- Tired of having to actually play games to get rewards in Discord, I build the [Discord Orbs Quest Bypasser](https://github.com/LFM57/Discord-Orbs-Quest-Bypasser)
-- Tired of always loosing at poker because I estimated my chances were always high, I build the [Poker Probabilities Calculator](https://github.com/LFM57/Poker-Probas) 
-- And a another bunch of projects like a Discord bot (not public sorry, code is too messy and with hard coded auth tokens) or my own Subway Builder (a total flop, this one)
+### 🛠 Tech Stack:
 
-By the way, so sorry to all Java developers, but I only code in Python (sorry ;-))
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-If you want to contact me, please feel free to do so on [Instagram](https://instagram.com/the.only.real_lfm) or via [mail](mailto:gerling.france57@gmail.com)
+---
 
-<!--
-**LFM57/lfm57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> As a student, my activity fluctuates with my studies, but I'm always open to interesting discussions!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:**
+- **Instagram**: [@the.only.real_lfm](https://instagram.com/the.only.real_lfm)
+- **Email**: [gerling.france57@gmail.com](mailto:gerling.france57@gmail.com)
