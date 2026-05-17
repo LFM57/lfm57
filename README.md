@@ -15,7 +15,3 @@ I'm a student developer who loves building tools that solve immediate problems. 
 
 > [!NOTE]
 > As a student, my activity fluctuates with my studies, but I'm always open to interesting discussions!
-
-📫 **How to reach me:**
-- **Instagram**: [@the.only.real_lfm](https://instagram.com/the.only.real_lfm)
-- **Email**: [gerling.france57@gmail.com](mailto:gerling.france57@gmail.com)
