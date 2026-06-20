@@ -4,8 +4,8 @@ I'm a student developer who loves building tools that solve immediate problems. 
 
 ### 🚀 Some of my favorite builds:
 - **[sOS - Simple Operating System](https://github.com/LFM57/sOS_Simple-Operating-System)**: It's all in the name, really. Worth the look!
-- **[Discord Orbs Quest Bypasser](https://github.com/LFM57/Discord-Orbs-Quest-Bypasser)**: Because I'd rather code a solution than grind for rewards (removed by GitHub team, what a shame...).
 - **[Poker Probabilities Calculator](https://github.com/LFM57/Poker-Probas)**: Built after realizing my "intuition" wasn't as good as actual math.
+- **Discord Orbs Quest Bypasser**: Because I'd rather code a solution than grind for rewards (removed by GitHub team, what a shame...).
 - **AI & Neural Networks**: I enjoy experimenting with deep learning, like training a **ResNet** to play Connect-Four.
 
 ### 🛠 Tech Stack:
