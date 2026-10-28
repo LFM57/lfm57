@@ -4,13 +4,9 @@ I'm a student developer who loves building tools that solve immediate problems. 
 
 ### 🚀 Some of my favorite builds:
 - **[sOS - Simple Operating System](https://github.com/LFM57/sOS_Simple-Operating-System)**: It's all in the name, really. Worth the look!
+- **[Rocket Simulation](https://https://github.com/LFM57/rocket-simulation)**: Build, test and drive any spaceship you want, with super accurate physics and math
 - **[Poker Probabilities Calculator](https://github.com/LFM57/Poker-Probas)**: Built after realizing my "intuition" wasn't as good as actual math.
 - **Discord Orbs Quest Bypasser**: Because I'd rather code a solution than grind for rewards (removed by GitHub team, what a shame...).
-- **AI & Neural Networks**: I enjoy experimenting with deep learning, like training a **ResNet** to play Connect-Four.
-
-### 🛠 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
