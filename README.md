@@ -1,19 +1,16 @@
 ## Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=LFM57" width="0" height="0" alt="" />
 I'm a student developer who loves building tools that solve immediate problems. Most of my projects are **passion-driven** and created on a whim whenever I find a repetitive task to automate or a logic puzzle to solve, but they often finish by becoming something huge because I refuse to abandon them.
 
 ### 🚀 Some of my favorite public builds:
 - **[sOS - Simple Operating System](https://github.com/LFM57/sOS_Simple-Operating-System)**: It's all in the name, really. Worth the look!
-- **[Rocket Simulation](https://https://github.com/LFM57/rocket-simulation)**: Build, test and drive any spaceship you want, with super accurate physics and math (I was tired of all these mobile games that lacked physics and computer games that were impossible to understand)
-- **[Poker Probabilities Calculator](https://github.com/LFM57/Poker-Probas)**: Built after realizing my "intuition" wasn't as good as actual math.
-- **[Liora Chess Engine](https://github.com/LFM57/liora-chess-engine)**: Because chess is fun, but only when you win, and what's better than a bot to win?
+- **[Liora Chess Engine](https://github.com/LFM57/liora-chess-engine)**: Because chess is fun, but only when you win, and what's better than a bot to win? (Rating: ~2650)
 
 ---
 
 > [!NOTE]
 > As a student, my activity fluctuates with my studies, but I'm always open to interesting discussions!
 
-<img src="https://komarev.com/ghpvc/?username=LFM57" width="0" height="0" alt="" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
 </div>
