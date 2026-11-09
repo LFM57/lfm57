@@ -4,7 +4,7 @@ I'm a student developer who loves building tools that solve immediate problems. 
 
 ### 🚀 Some of my favorite public builds:
 - **[sOS - Simple Operating System](https://github.com/LFM57/sOS_Simple-Operating-System)**: It's all in the name, really. Worth the look!
-- **[Liora Chess Engine](https://github.com/LFM57/liora-chess-engine)**: Because chess is fun, but only when you win, and what's better than a bot to win? (Rating: ~2650)
+- **[Liora Chess Engine](https://github.com/LFM57/liora-chess-engine)**: Because chess is fun, but only when you win, and what's better than a bot to win? (Rating: ≈2650)
 
 ---
 
