@@ -4,7 +4,7 @@ I'm a student developer who loves building tools that solve immediate problems. 
 
 ### 🚀 Some of my favorite public builds:
 - **[sOS - Simple Operating System](https://github.com/LFM57/sOS_Simple-Operating-System)**: It's all in the name, really. Worth the look!
-- **[Rocket Simulation](https://https://github.com/LFM57/rocket-simulation)**: Build, test and drive any spaceship you want, with super accurate physics and math (I was tiered of all these mobile games that lacked physics and computer games that were impossible to understand)
+- **[Rocket Simulation](https://https://github.com/LFM57/rocket-simulation)**: Build, test and drive any spaceship you want, with super accurate physics and math (I was tired of all these mobile games that lacked physics and computer games that were impossible to understand)
 - **[Poker Probabilities Calculator](https://github.com/LFM57/Poker-Probas)**: Built after realizing my "intuition" wasn't as good as actual math.
 - **[Liora Chess Engine](https://github.com/LFM57/liora-chess-engine)**: Because chess is fun, but only when you win, and what's better than a bot to win?
 
