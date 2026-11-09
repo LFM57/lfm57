@@ -12,3 +12,8 @@ I'm a student developer who loves building tools that solve immediate problems. 
 
 > [!NOTE]
 > As a student, my activity fluctuates with my studies, but I'm always open to interesting discussions!
+
+<img src="https://komarev.com/ghpvc/?username=LFM57" width="0" height="0" alt="" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+</div>
